@@ -1,2 +1,10 @@
 // Code your solution in this file!
-let CompanyName = 'Scuber';
+let companyName = 'Scuber';
+if (companyCeo === Susansmith) {
+    console.log(companyCeo);
+}
+
+const companyName = 'Scuber';
+try {mostProfitableNeighborhood === Chelsea} catch (err) {
+    console.log(mostProfitableNeighborhood);
+}
